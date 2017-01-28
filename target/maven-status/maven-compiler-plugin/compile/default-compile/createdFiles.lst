@@ -1,0 +1,5 @@
+com\aialec\rest\controller\GreetingController.class
+com\aialec\model\Country.class
+com\aialec\rest\controller\CountryController.class
+com\aialec\model\Greeting.class
+com\aialec\service\CountryService.class
